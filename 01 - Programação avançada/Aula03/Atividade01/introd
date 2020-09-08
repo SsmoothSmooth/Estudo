@@ -1,0 +1,7 @@
+Atividade
+
+- Criar classe Aluno com as propriedades Nome e RA
+
+-Redefina os métodos equals() e hashCode() para 
+ poder verificar se duas instâncias de alunos são
+ iguais: mesmo RA.

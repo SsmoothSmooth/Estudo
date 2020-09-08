@@ -1,0 +1,11 @@
+Atividade
+
+- usando a classe Aluno criada anteriomente,
+  declare um Array de alunos e adicione algumas
+  instâncias.
+
+- Implemente a interface Comparable para comparar
+  alunos com base no nome.
+
+- Use o Array.sort() para ordenar estes alunos
+  no Array.

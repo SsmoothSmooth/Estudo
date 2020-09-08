@@ -1,0 +1,12 @@
+Exercício
+
+• Usando uma linguagem OO, crie uma aplicação
+que define três formas geométricas planas:
+quadrado, retângulo e triângulo.
+
+• Defina a operação comum obterArea(), que
+define a área do objeto em questão.
+
+• Crie um programa que permite definir uma lista
+de formas geométricas e, posteriormente calcule
+a área total de todas essas formas.
