@@ -19,7 +19,7 @@
 
 ## 5. **Structure:**
 
- (imagem)
+ ![alt text](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/structure%20composite.png)
 
 ## 6. **Participants:**
 
@@ -40,4 +40,5 @@
 ######    **Client**
 * Manipula os objetos da composição via interface Component    
 
-###### 7. **Sample Code:** (Link da pasta)
+###### 7. **Sample Code:**
+ (https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Composite)
