@@ -1,27 +1,26 @@
 
 # **Markdown**
 
-- Pattern Name and Classification
+1. Pattern Name and Classification:
     Padrão Composite
     Padrão Estrutural
 
-- Intent
+2. Intent:
     Modifica a estruttura de um objeto
 
-- Motivition
+3. Motivition:
     Para casos que requerem objetos que se comportam como estrutura em árvore para
     representar hierarquias.
 
-- Applicability
+4. Applicability:
     Em estrutura hierárquica como grafo ou árvore que requer funcionalidade genérica por toda a estrutura
     Aplicações onde precisa agregar dados por toda hierárquias.
     Aplicção que precisa tratar a composição e objetodos de maneira individuais e  uniforme
 
-- Structure
+5. Structure:
+ (imagem)
 
-
-
-- Participants
+6. Participants:
     * Component:
         - Declara interface para objetos da composição
         - Implementa comportamentos padrão comuns para todas as classes
@@ -39,4 +38,4 @@
     * Client
         - Manipula os objetos da composição via interface Component    
 
-- Sample Code (Link da pasta)
+7. Sample Code: (Link da pasta)
