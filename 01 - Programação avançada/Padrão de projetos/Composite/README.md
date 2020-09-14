@@ -19,7 +19,7 @@
 
 ## 5. **Structure:**
 
- ![alt text](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/structure%20composite.png)
+ ![alt text](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/structureComposite.png)
 
 ## 6. **Participants:**
 
