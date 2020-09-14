@@ -1,0 +1,14 @@
+Atividade:
+
+Considere um Lava Rápido que deseja informatizer seu 
+sistema de atendimento. Atualmente ele atendem veículo 
+de diferentes tipo, desde motos, carros, vans até 
+caminhões. O atendimento é por ordem de chegada e 
+muitas vezes se forma uma fila. O preço varia de 
+acorde com o serviço. Esta solução computacional deve
+permitir a realização de agendamentos, pagamentos além
+de previsão de realização e entrega do serviço para
+evitar filas
+
+
+faça a abstração para uma possível solução computacional usando POO

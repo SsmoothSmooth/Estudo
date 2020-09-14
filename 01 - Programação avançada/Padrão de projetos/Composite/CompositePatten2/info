@@ -1,0 +1,14 @@
+Exercício
+
+- Implemente classes que representem um sistema de arquivos,
+  com pastas e arquivos.
+
+- Pastas possue nome e diversos arquivos e subpastas.
+
+- Arquivos possuem nome e tamanho em KB.
+
+- Seu programa deve navegar pela árvore e imprimir seus itens
+  e tamanhos.
+
+  - https://repl.it/@JoaoRonaldo/CompositePattern-1
+        (resolvido professor)
