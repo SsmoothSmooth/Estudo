@@ -19,7 +19,7 @@
 
 ## 5. **Structure:**
 
- [Structure Coposite Basic](/../Assets/structureComposite.png)
+ [Structure Coposite Basic](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/structure%20composite.png)
 
 ## 6. **Participants:**
 
