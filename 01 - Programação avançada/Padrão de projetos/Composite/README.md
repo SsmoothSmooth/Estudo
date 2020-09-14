@@ -2,22 +2,23 @@
 # **Markdown**
 
 ## 1. **Pattern Name and Classification:**
-    Padrão Composite
-    Padrão Estrutural
+    - Padrão Composite
+    - Padrão Estrutural
 
 ## 2. **Intent:**
-    Modifica a estruttura de um objeto
+    - Modifica a estruttura de um objeto
 
 ## 3. **Motivition:**
-    Para casos que requerem objetos que se comportam como estrutura em árvore para
+    - Para casos que requerem objetos que se comportam como estrutura em árvore para
     representar hierarquias.
 
 ## 4. **Applicability:**
-    Em estrutura hierárquica como grafo ou árvore que requer funcionalidade genérica por toda a estrutura
+    - Em estrutura hierárquica como grafo ou árvore que requer funcionalidade genérica por toda a estrutura
     Aplicações onde precisa agregar dados por toda hierárquias.
     Aplicção que precisa tratar a composição e objetodos de maneira individuais e  uniforme
 
 ## 5. **Structure:**
+
  (imagem)
 
 ## 6. **Participants:**
