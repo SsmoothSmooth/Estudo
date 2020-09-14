@@ -19,7 +19,7 @@
 
 ## 5. **Structure:**
 
- ![Structure Composite Basic](\..\Assets\structureComposite.png)
+ ![Structure Composite Basic](../\Assets\structureComposite.png)
 
 ## 6. **Participants:**
 
