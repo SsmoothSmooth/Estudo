@@ -31,9 +31,9 @@
 * Redefine, quando necessário, algumas etapas do algoritmo especificado em FrameworkClass
 
 ###### 7. **Sample Code:**
-[github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Composite/CompositePatten)
+[github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Template%20Method/templateMethod)
 
- [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod2](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Composite/CompositePatten2)
+ [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod2](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Template%20Method/templateMethod2)
 
- [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod3](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Composite/CompositePatten3)
+ [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod3](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Template%20Method/templateMethod3)
 
