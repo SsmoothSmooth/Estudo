@@ -1,4 +1,4 @@
-public abstract class Game {
+public abstract class Game { 
    abstract void initialize();
    abstract void startPlay();
    abstract void endPlay();
