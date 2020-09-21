@@ -2,41 +2,32 @@
 # **Markdown**
 
 ## 1. **Pattern Name and Classification:**
-* Padrão Composite
-* Padrão Estrutural
+* Padrão Template Method
+* Padrão Comportamental
 
 ## 2. **Intent:**
-* Modifica a estruttura de um objeto
+* Permite que as subclasses façam modificações deste algoritimo sem alterar a estrutura
 
 ## 3. **Motivition:**
-* Para casos que requerem objetos que se comportam como estrutura em árvore para
-    representar hierarquias.
+* Alterações no algoritmo pode ser feitas de forma genérica ou específica em cada componente específico
 
 ## 4. **Applicability:**
-* Em estrutura hierárquica como grafo ou árvore que requer funcionalidade genérica por toda a estrutura
-    Aplicações onde precisa agregar dados por toda hierárquias.
-    Aplicção que precisa tratar a composição e objetodos de maneira individuais e  uniforme
+* Aplicação que possui estrutura hierárquica e um algoritmo que pode ser dividido em etapas.
+* Dois ou mais componentes diferentes implementam esse algoritmo, possuindo várias
+  semelhanças mas alguns diferenças na implementação de algumas etapas do algoritmo.
+* Alterações no algoritmo pode ser feitas de forma genérica ou específica e mcada componente específico
+* Útil em cenários em que se tem gerador automático de código.
 
 ## 5. **Structure:**
 
 ## 6. **Participants:**
 
-######    **Component:**
-* Declara interface para objetos da composição
-* Implementa comportamentos padrão comuns para todas as classes
-* Declara uma interface para acessar e gerenciar componentes filho
+######    **FrameworkClass:**
+* Define o templateMethod que é responsável por chamar os demais métodos.
+* Especifica os métodos abstratos das etapas de execução
 
-######    **Leaf:**
-* Representa objetos folha da consição que não tem filhos
-* Define o comportamento para objetos primitivos.
-
-######    **Composite:**
-* Define o comportamento para componentes que possuem filhos
-* Armazena componentes filhos
-* Implementa operações relacionadas a filhos e definidas na interface Component
-
-######    **Client**
-* Manipula os objetos da composição via interface Component    
+######    **ApplicationClassOne/ApplicationClassTwo:**
+* Redefine, quando necessário, algumas etapas do algoritmo especificado em FrameworkClass
 
 ###### 7. **Sample Code:**
 
