@@ -40,7 +40,7 @@
 ######    **Client**
 * Manipula os objetos da composição via interface Component    
 
-# 7. **Sample Code:**
+## 7. **Sample Code:**
  [github.com/SsmoothSmooth/Estudo/Padrão de projetos/CompositePatten](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Composite/CompositePatten)
 
  [github.com/SsmoothSmooth/Estudo/Padrão de projetos/CompositePatten2](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Composite/CompositePatten2)
