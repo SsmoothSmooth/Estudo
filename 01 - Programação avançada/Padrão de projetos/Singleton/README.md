@@ -32,7 +32,8 @@
 
 ## 7. **Sample Code:**
 [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Singleton/SingletonPattemBD](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Singleton/SingletonPattemBD)
+* Neste exemplo é criada uma instância para conectar e desconectar em um banco de dado;
 
  [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Singleton/SingletonPattemFile](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Singleton/SingletonPattemFile)
-
+* Neste código é implementado uma classe que manipula um arquivo e aplicando o singleton garante que não havera mais de uma instância dessa classe no programa
 
