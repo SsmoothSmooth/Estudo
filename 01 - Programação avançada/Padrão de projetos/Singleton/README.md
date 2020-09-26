@@ -18,7 +18,7 @@
   reduzindo problemas de referência.
 
 ## 5. **Structure:**
-![Singleton]()
+![Singleton](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/Singleton.png)
 
 ## 6. **Participants:**
 
@@ -31,9 +31,8 @@
 * Está interessado na instância, não importa se é uma só no programa todo 
 
 ## 7. **Sample Code:**
-[github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod]()
+[github.com/SsmoothSmooth/Estudo/Padrão de projetos/Singleton/SingletonPattemBD](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Singleton/SingletonPattemBD)
 
- [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod2]()
+ [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Singleton/SingletonPattemFile](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Singleton/SingletonPattemFile)
 
- [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Template Method/templateMethod3]()
 
