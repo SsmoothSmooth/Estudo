@@ -18,7 +18,9 @@
 * Muito utilizado para compatibilizar o novo sistema com Frameworks ou APIs externos.
 
 ## 5. **Structure:**
-![Adapter]()
+![Adapter](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/Adapter.png)
+![AdapterE](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/AdapterE.png)
+
 
 ## 6. **Participants:**
 
@@ -36,9 +38,5 @@
 * É quem adapta a interface do Adeptee ao Target usando pela aplicação. 
 
 ## 7. **Sample Code:**
-1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Singleton/SingletonPattemBD]()
-* Neste código é cria uma única instância de um objeto para conectar e desconectar em um banco de dado;
-
- 2. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Singleton/SingletonPattemFile]()
-* Neste código é implementado uma classe que manipula um arquivo e aplicando o singleton garante que não havera mais de uma instância dessa classe no programa
-
+1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Adapter/AdapterPatterm/](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Adapter/AdapterPatterm)
+* Neste exemplo clássico, usamos uma classe de tomada de dois pinos se adapter a uma tomada de três pino.
