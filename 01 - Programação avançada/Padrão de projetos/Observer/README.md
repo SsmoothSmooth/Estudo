@@ -35,7 +35,7 @@ permite que outros objetos se inscrevam para receber notificações sobre estas 
 
 
 ## 7. **Sample Code:**
-1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/]()
+1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Observer/ObserverPattern/](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Observer/ObserverPattern)
 * Neste código é criado uma classe abstrada observer, ele guarda a instancia Subject quando é notificado a mudança de status ele faz um update do que mudou;
 
 
