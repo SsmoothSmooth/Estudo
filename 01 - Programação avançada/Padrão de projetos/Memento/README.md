@@ -37,6 +37,6 @@
 
 ## 7. **Sample Code:**
 1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/]()
-* Neste código
+* Neste código possui uma interface que permite escrever um texto, desfazer a operação de escrita e exibir o texto no terminal. Ao escrever um novo texto, primeiro o estado é salvo, então a alteração é feita. Ao desfazer a escrita é solicitado ao Caretaker que pegue o último estado salvo, a partir deste estado é possível pegar o texto e restaurá-lo.
 
 
