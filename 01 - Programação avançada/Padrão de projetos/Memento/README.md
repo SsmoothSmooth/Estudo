@@ -21,7 +21,7 @@
 * Permitir que o programa se recupere de erros.
 
 ## 5. **Structure:**
-![Memento]()
+![Memento](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/Memento.png)
 
 ## 6. **Participants:**
 
