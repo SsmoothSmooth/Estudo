@@ -20,7 +20,7 @@ permite que outros objetos se inscrevam para receber notificações sobre estas 
 * Quando uma mudança a um objetos requer mudanças a outros e você não sabe quantos outros objetos devem mudar ou quando um objeto deve ser capaz de avisar outros sem fazer suposições sobre quem são os objetos.
 
 ## 5. **Structure:**
-![Adapter]()
+![Observer](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/Observer.png)
 
 ## 6. **Participants:**
 
@@ -35,7 +35,7 @@ permite que outros objetos se inscrevam para receber notificações sobre estas 
 
 
 ## 7. **Sample Code:**
-1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Singleton/SingletonPattemBD]()
+1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Observer/ObserverPattern/](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Observer/ObserverPattern)
 * Neste código é criado uma classe abstrada observer, ele guarda a instancia Subject quando é notificado a mudança de status ele faz um update do que mudou;
 
 
