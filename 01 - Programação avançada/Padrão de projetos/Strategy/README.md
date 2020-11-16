@@ -20,7 +20,7 @@
 * Quando há a necessidade de variar (intercambiar) o algoritmo de acordo com as condições da chamada.
 
 ## 5. **Structure:**
-![Strategy]()
+![Strategy](https://github.com/SsmoothSmooth/Estudo/blob/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Assets/Strategy.png)
 
 ## 6. **Participants:**
 
@@ -35,5 +35,6 @@
 
 ## 7. **Sample Code:**
 1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Strategy/StrategyPatten/](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Strategy/StrategyPatten)
+*
 
 
