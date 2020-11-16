@@ -35,6 +35,6 @@
 
 ## 7. **Sample Code:**
 1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Strategy/StrategyPatten/](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Strategy/StrategyPatten)
-*
+* Neste exemplo o padrão strategy é fica responsável de atribuir o calculo do imposto conforme o cargo dos funcionarios 
 
 
