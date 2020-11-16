@@ -34,6 +34,6 @@
 * Um ou mais algoritmos fornecidos para a aplicação.
 
 ## 7. **Sample Code:**
-1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/]()
+1. [github.com/SsmoothSmooth/Estudo/Padrão de projetos/Strategy/StrategyPatten/](https://github.com/SsmoothSmooth/Estudo/tree/master/01%20-%20Programa%C3%A7%C3%A3o%20avan%C3%A7ada/Padr%C3%A3o%20de%20projetos/Strategy/StrategyPatten)
 
 
